@@ -31,19 +31,19 @@
 <h3 align='left'> ** 대외비(정확한 값, 수치, X축, Y축) 비공개 처리 ** </h3>
 <p align="left">
   1. 요일별 매출 비교<br>
-  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/edffec00-e286-4eee-ae8e-2e4fa3996866.png" width="500" height="250"/><br>
+  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/edffec00-e286-4eee-ae8e-2e4fa3996866.png" width="500" height="300"/><br>
   <br>
   2. 시간대별 매출 비교<br>
-  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/1a368def-3974-4d73-bc5d-de4cde5f7429.png" width="500" height="250"/><br>
+  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/1a368def-3974-4d73-bc5d-de4cde5f7429.png" width="500" height="300"/><br>
   <br>
   3. 메뉴별 매출 점유율 확인<br>
-  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/775e9e9d-2bbd-4161-9e73-7be54b24f743.png" width="500" height="250"/><br>
+  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/775e9e9d-2bbd-4161-9e73-7be54b24f743.png" width="500" height="300"/><br>
   <br>
   4. 평일, 주말, 공휴일의 매출 비교 → 공휴일이 매출에 미치는 영향<br>
-  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/03f3e1c6-8a4e-4436-9904-d4700d24487e.png" width="500" height="250"/><br>
+  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/03f3e1c6-8a4e-4436-9904-d4700d24487e.png" width="500" height="300"/><br>
   <br>
   5. 요일별 제주 관광 월별 입도객 비교<br>
-  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/17a469ba-7250-4103-8c59-b604715a5a2b.png" width="500" height="250"/><br>
+  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/17a469ba-7250-4103-8c59-b604715a5a2b.png" width="500" height="300"/><br>
   <br>
   6. 매출과 날씨(기온, 풍속) 비교<br>
   - 시계열 그래프 사용
@@ -54,5 +54,5 @@
 <h2 align="left"> 솔루션 도출 및 제안 </h2>
 - EDA 및 데이터 분석을 기반으로 솔루션 도출
 <p align="left">
-  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/5ff222c2-6b75-4b9a-a3b8-02dfec40e235.png" width="500" height="250"/><br>
+  <img src="https://github.com/syur997/Project_CoffeePrince5/assets/110324563/5ff222c2-6b75-4b9a-a3b8-02dfec40e235.png" width="500" height="300"/><br>
 </p>
