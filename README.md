@@ -7,6 +7,12 @@
 <br>
 <br>
 <br>
+<div align='left'>
+  📄 분석 보고서 노션 링크: https://www.notion.so/3078e7bd5b3e4b3387f97b1fd42f3b9e?pvs=4
+</div>
+<br>
+<br>
+<br>
 <h2 align="left"> 주제 선정 배경 </h2>
 <p align="left">
   1. 현재 오프라인 매장의 한계점<br>
